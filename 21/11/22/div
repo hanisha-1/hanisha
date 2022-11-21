@@ -1,0 +1,12 @@
+4)  a=int(input("enter a number"))
+b=int(input("enter a number"))
+div=a/b
+print("div is",div)
+
+output:  enter a number100
+enter a number20
+div is 5.0
+
+
+
+
