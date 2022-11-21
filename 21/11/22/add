@@ -1,0 +1,8 @@
+1) a=int(input("enter a number"))
+    b=int(input("enter a number"))
+    add=a+b
+    print("sum is",add)
+ 
+output:  enter a number10
+enter a number20
+sum is 30
