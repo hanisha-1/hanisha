@@ -1,0 +1,15 @@
+p=int(input("Enter prinicpal amount:"))
+t=int(input("Enter time period:"))
+r=int(input("enter rate amount:"))
+si=(p*t*r)/100
+print("simple interest:",si)
+EMI=(p+si)t*/12
+print("Emi",EMI)
+
+output: =====================
+Enter prinicpal amount:1000
+Enter time period:3
+enter rate amount:4
+simple interest: 120.0
+Emi 4480.0
+
