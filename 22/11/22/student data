@@ -1,0 +1,26 @@
+sno=int(input("enter a student number:"))
+sname=input("enter student name:")
+gender=input("enter a gender")
+group=input("enter student group")
+address=input("enter student address")
+phoneno=int(input("enter student phone number"))
+print("student no",sno)
+print("student name",sname)
+print("gender",gender)
+print("group",group)
+print("address",address)
+print("phone no",phoneno)
+
+output:  enter a student number:69
+enter student name:hanisha
+enter a gender female
+enter student group bca
+enter student address ndk
+enter student phone number 9087654321
+student no 69
+student name hanisha
+gender  female
+group  bca
+address  ndk
+phone no 9087654321
+
